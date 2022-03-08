@@ -1,1 +1,7 @@
-First update
+Thêm:
+    Chọn tự động chuyển acc
+     Ẩn chrome
+     Ẩn hình ảnh
+     Lưu profile
+     Lấy token bằng chrome
+     Định dạng thêm nick
