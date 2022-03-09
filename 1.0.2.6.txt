@@ -1,1 +1,4 @@
 Thêm Proxy hàng loại
+Chrome nhập kí tự nhanh
+Thêm đóng chrome
+Nhận diện token die
