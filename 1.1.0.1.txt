@@ -1,0 +1,4 @@
+Fix lỗi crash tool
+Fix thêm số lượng lớn tài khoản
+Sửa định dạng thêm proxy
+Fix làm job like group
