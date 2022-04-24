@@ -1,0 +1,2 @@
+Fix lỗi còn tồn đọng
+Thêm tổng số job đã làm
